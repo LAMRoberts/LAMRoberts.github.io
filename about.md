@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/a.jpg">
 
 I actually changed something
 
