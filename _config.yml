@@ -2,7 +2,7 @@
 title: Portfolio
 email: luke4.roberts@live.uwe.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  My portfolio and Dev Blog.
+  My portfolio and Development Blog.
 baseurl: /
 url: https://LAMRoberts.github.io  # the base hostname & protocol for your site
 twitter_username: LAMRoberts
