@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About LAMR
 permalink: /about/
 ---
 
@@ -8,9 +8,9 @@ permalink: /about/
 
 I actually changed something
 
-Studing at UWE, on the Games Technology degree
+Studing at UWE, on a Games Technology course.
 
-shorthand CV. Plenty of plugins do this. Alternatively, you may want to link to linkedin instead.
+Ill make a shorthand CV. Plenty of plugins do this. Alternatively, ill link to linkedin.
 
 <br/>
 <hr/>
