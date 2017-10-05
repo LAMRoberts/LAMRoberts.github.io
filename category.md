@@ -1,11 +1,11 @@
 ---
 layout: default
-title: categories
+title: Categories
 permalink: /category/
 ---
 
 <div class="header-bar">
-  <h1>categories</h1>
+  <h1>Categories</h1>
   <br/>
 </div>
 
