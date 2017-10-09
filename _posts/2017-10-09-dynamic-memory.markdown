@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dynamic Memory 101
+date: 
 description: What is dynamic memory?
 category: Low Level Programming
 tags:
