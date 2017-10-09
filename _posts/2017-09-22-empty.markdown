@@ -1,0 +1,6 @@
+---
+layout: post
+title: Empty
+description: None
+---
+Empty
