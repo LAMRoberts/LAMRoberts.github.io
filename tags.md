@@ -5,7 +5,7 @@ permalink: /tags/
 ---
 
 <div class="header-bar">
-  <h1>posts by tag</h1>
+  <h1>Posts by Tag</h1>
   <br/>
 </div>
 
