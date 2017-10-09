@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Conditional Loops
+date:   2017-07-18
 description: What are the basic conditional loops?
 category: Low Level Programming
 tags:
