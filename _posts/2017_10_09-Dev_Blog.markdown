@@ -1,6 +1,13 @@
 ---
 layout: post
-title: APT BOREDOM
+title: New Categories and Tags!
 date: 2017-10-09 15:12:00
 description: NEW! Development Blog!
 ---
+
+Categories Added:
+Low Level Programming
+
+Tags Added:
+Dev Blog
+C++
