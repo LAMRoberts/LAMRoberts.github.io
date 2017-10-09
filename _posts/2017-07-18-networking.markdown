@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  networking
+title:  Networking
 date:   2017-07-18 12:00:00
-description: a brief intro to networking
+description: A brief intro to networking.
+Category: Dev Blog
+Tags:
+ - Low Level Programming
 ---
 <b>Networking</b> is quite rightly known for being one of the most difficult areas of gameplay to implement. In this post we'll look at some of the common techniques and technologies used to create multi-player experiences, both over WAN and LAN.
 
