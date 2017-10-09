@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Networking
-date:   2017-07-18
+-date:   2017-10-09
 description: A brief intro to networking.
 category: Low Level Programming
 tags:
