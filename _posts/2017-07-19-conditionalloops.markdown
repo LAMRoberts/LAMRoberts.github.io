@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Conditional Loops
-date: 2017-07-19 12:00:00
 description: What are the basic conditional loops?
-category: Dev Blog
+category: Low Level Programming
 tags:
-  - Low Level Programming
+  - C++
+  - Dev Blog
 ---
 C++ offers several simple and easy ways to loop. Loops can be used to process the same logic a number of times. The most common is the for loop, followed by while and the do-while. These loops are known as conditional because they continue to loop until a specific condition is met. 
 
