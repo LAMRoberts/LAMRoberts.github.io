@@ -18,7 +18,7 @@ Ill make a shorthand CV. Plenty of plugins do this. Alternatively, ill link to l
 <span class="contacticon center">
 	<a href="mailto:luke4.roberts@live.uwe.ac.uk"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/LAMRoberts" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/LAMRoberts" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/LAMRoberts" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/LukeAMRoberts" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
