@@ -8,11 +8,19 @@ tags: Dev Blog
 <h1> New Categories! </h1>
 
 <body>
-  <p> Categories Added:
-    Low Level Programming
-    Game Engine Architecture </p>
-  <p> Tags Added:
-    Dev Blog
-    C++
-    Projects </p>
+  <p>
+    Categories Added:
+    <pre>
+      Low Level Programming
+      Game Engine Architecture
+    </pre>
+    </p>
+  <p>
+    Tags Added:
+    <pre>
+      Dev Blog
+      C++
+      Projects
+    </pre>
+    </p>
 </body>
