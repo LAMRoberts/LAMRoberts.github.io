@@ -1,13 +1,17 @@
 ---
 layout: post
 title: New Categories and Tags!
-date: 2017-10-09
+date: 2017-10-10
 description: NEW! Development Blog!
 ---
+<h1> New Categories! </h1>
 
-Categories Added:
-Low Level Programming
-
-Tags Added:
-Dev Blog
-C++
+<body>
+  <p> Categories Added:
+    Low Level Programming
+    Game Engine Architecture </p>
+  <p> Tags Added:
+    Dev Blog
+    C++
+    Projects </p>
+</body>
