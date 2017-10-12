@@ -1,32 +1,32 @@
 ---
 layout: post
 title: First Project
-date: 2017-10-10
+date: 2017-10-10 12:00:000
 description: Snake, first project of the year.
 category: Low Level Programming
 tags: Snake
 ---
 
 <h1>AHHHHH A SNAKE!</h1>
-<body>
-  <p>
-    Getting started on snake, lets make a list of the things we will need to do.
-    <pre>
-    - move around with arrows/wasd/mouse/gamepad,
-    - keep moving whether an input has been entered or not,
-    - we only need a left and right controller input,
-    - we need food for our baby snake to grow into a healthy, well-balanced member of snake-society,
-    - food must spawn randomly about the level
-    - snake must grow when it eats the food
-    - we want a little scoring system, timer atleast
-    - perhaps even push the boat out with levels/difficulties
-    </pre>
-    </p>
+<p>
+  Getting started on snake, lets make a list of the things we will need to do.
+  <ul>
+    <li>Move around with arrows/wasd/mouse/gamepad</li>
+    <li>keep moving whether an input has been entered or not</li>
+    <li>we only need a left and right controller input</li>
+    <li>we need food for our baby snake to grow into a healthy, well-balanced member of snake-society</li>
+    <li>food must spawn randomly about the level</li>
+    <li>snake must grow when it eats the food</li>
+    <li>we want a little scoring system, timer atleast</li>
+    <li>perhaps even push the boat out with levels/difficulties</li>
+  </ul>
+<p>
   <h4>How on earth are we supposed to do this?</h4>
-  <p>
-    Lets break it down into our different classes.
-    1. Snake
-    2. Food
-    3. UI
-    </p>
-  </body>
+<p>
+  Lets break it down into our different classes.
+  <ul>
+    <li>Snake</li>
+    <li>Food</li>
+    <li>UI</li>
+    <li>Options</li>
+  </ul>
