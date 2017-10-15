@@ -25,8 +25,6 @@ tags: Snake
   <p>
   <img class="col md 4" src="{{ site.baseurl }}/img/SnakeUML.jpg">
   <p>
-  https://www.coolmath-games.com/0-snake 
+  <a class="one" href="https://www.coolmath-games.com/0-snake" target="_blank">coolmath-games.com Snek Game</a>
   <p>
-  http://poki.com/en/g/snake-3310
-    
-    
+  <a class="one" href="http://poki.com/en/g/snake-3310" target="_blank">poki.com Snek Game</a>
