@@ -1,0 +1,33 @@
+---
+layout: post
+title: Snake UML
+date: 2017-10-12 11:00:000
+description: Snake, first project of the year.
+category: Low Level Programming
+tags: Snake
+---
+<h1>Scary Cobar</h1>
+<body>
+  <p>
+  Lets get a UML together for snake but i'll need more detail on what the game needs to do.
+  The terrible breakdown of the previous post only covers general ideas, so having looked at a 
+  few different snake games (links below) lets get together a comprehensivelist to make the UML.
+  <ul>
+  <li>A playable area where if the snake touches the edge its game over.
+  <li>A snake made up of two parts: the head and n body parts where n is the number of apples eaten.
+  <li>The head continuously moves forward and can turn left or right relative to the snakes forward direction.
+  <li>Each body part simply follows the previous body part.
+  <li>Apples that randomly generate one at a time in a random location for the snake to eat.
+  <li>When the snake eats an apple the length of the snake and the score goes up by one.
+  <li>When an apple is eaten it appears to stay where it is in the grid, but travels down the snake as it moves.
+  <li>When an apple gets to the last body part it turns into a body part that follows like the rest of them.
+  <li>If the snake touches the wall or one of its body parts the snake stops and the game is over.
+  </ul>
+  <p>
+  <img class="col one right" src="{{ site.baseurl }}/img/SnakeUML.png">
+  <p>
+  https://www.coolmath-games.com/0-snake 
+  <p>
+  http://poki.com/en/g/snake-3310
+    
+    
