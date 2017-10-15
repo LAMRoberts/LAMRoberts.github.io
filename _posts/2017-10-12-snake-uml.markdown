@@ -24,7 +24,7 @@ tags: Snake
   <li>If the snake touches the wall or one of its body parts the snake stops and the game is over.
   </ul>
   <p>
-  <img class="col one right" src="{{ site.baseurl }}/img/SnakeUML.jpg">
+  <img class="col md 4" src="{{ site.baseurl }}/img/SnakeUML.jpg">
   <p>
   https://www.coolmath-games.com/0-snake 
   <p>
