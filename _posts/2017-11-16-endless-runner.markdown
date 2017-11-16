@@ -13,10 +13,10 @@ Lets start with a bit of research. What is an endless runner?
 An endless runner is a game where the players character is continuously running and 
 the score is based on distance travelled or an end goal for each level.
 
-http://www.avalanchegame.org/
-<br>https://jackv24.itch.io/space-dash
-<br>https://guerragames.itch.io/cave-runners
-<br>https://playkiseki.itch.io/moonlight-mori
+<a class="one" href="http://www.avalanchegame.org" target="_blank">Avalanche</a>
+<br><a class="one" href="https://jackv24.itch.io/space-dash" target="_blank">Space Dash</a>
+<br><a class="one" href="https://guerragames.itch.io/cave-runners" target="_blank">Cave Runners</a>
+<br><a class="one" href="https://playkiseki.itch.io/moonlight-mori" target="_blank">Moonlight Mori</a>
 
 The design I have chosen is one close to the first of these examples, avalanche, 
 where the player has to continuously jump on top of falling blocks to escape rising water.
