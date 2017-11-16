@@ -21,7 +21,7 @@ the score is based on distance travelled or an end goal for each level.
 The design I have chosen is one close to the first of these examples, avalanche, 
 where the player has to continuously jump on top of falling blocks to escape rising water.
 <p>
-<h6>Lets list some of the more obvious things the game will need to be a game.</h6>
+<h3>Lets list some of the more obvious things the game will need to be a game.</h3>
 <p>
 <ul>
   <li> Firstly, a player, I think im going to stick to something simple and geometric, like a square.
@@ -31,4 +31,4 @@ where the player has to continuously jump on top of falling blocks to escape ris
   <li> Whats the point in doing it if theres no score? A scoreboard/leaderboard.
   <li> Wrap this up in a little menu system to play/pause/retry/scores. Oh, and quit when you've realised how bad it is.
 <p>
-  That should get us a basic game. Next we'll have a look at a basic UML for what we will need.
+That should get us a basic game. Next we'll have a look at a basic UML for what we will need.
