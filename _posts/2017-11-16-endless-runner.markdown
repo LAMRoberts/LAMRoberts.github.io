@@ -21,7 +21,7 @@ the score is based on distance travelled or an end goal for each level.
 The design I have chosen is one close to the first of these examples, avalanche, 
 where the player has to continuously jump on top of falling blocks to escape rising water.
 <p>
-<h3>Lets list some of the more obvious things the game will need to be a game.</h3>
+<h4>Lets list some of the more obvious things the game will need to be a game.</h4>
 <p>
 <ul>
   <li> Firstly, a player, I think im going to stick to something simple and geometric, like a square.
