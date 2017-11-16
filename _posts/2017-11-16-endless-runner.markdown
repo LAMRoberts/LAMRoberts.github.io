@@ -4,8 +4,7 @@ title:  Endless Runner
 date:   2017-11-16
 description: Starting a new project
 category: Low Level Programming
-tags:
-  - LLP
+tags: Endless Runner
 ---
 <h1>Making an Endless Runner</h1>
 <p>
