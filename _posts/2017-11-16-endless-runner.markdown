@@ -7,7 +7,7 @@ category: Low Level Programming
 tags:
   - LLP
 ---
-<h1>Making an Endless Runner
+<h1>Making an Endless Runner</h1>
 
 Lets start with a bit of research. What is an endless runner? 
 An endless runner is a game where the players character is continuously running and 
