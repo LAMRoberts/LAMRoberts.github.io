@@ -17,16 +17,14 @@ the score is based on distance travelled or an end goal for each level.
 <br><a class="one" href="https://guerragames.itch.io/cave-runners" target="_blank">Cave Runners</a>
 <br><a class="one" href="https://playkiseki.itch.io/moonlight-mori" target="_blank">Moonlight Mori</a>
 <p>
-The design I have chosen is one close to the first of these examples, avalanche, 
-where the player has to continuously jump on top of falling blocks to escape rising water.
+I have chosen a spaceship avoiding asteroids through an asteroid belt.
 <p>
 <h4>Lets list some of the more obvious things the game will need to be a game.</h4>
 <p>
 <ul>
-  <li> Firstly, a player, I think im going to stick to something simple and geometric, like a square.
-  <li> A level. I'm going to make the level endless and the score tracked by maximum distance travelled upwards.
-  <li> Blocks falling. To get higher the player will have to jump onto falling blocks, like in a cheesy sci-fi movie scene.
-  <li> A reason to go up. Rising water is a good idea but I don't know if I want do do the same. We'll look at this later.
+  <li> Firstly, a player, Im going to stick to something simply geometric, like a square shape.
+  <li> A level. The level obviously has to be endless and the score tracked by maximum distance travelled.
+  <li> Asteroids. To get further the player will have to avoid asteroids, like in a cheesy sci-fi movie scene.
   <li> Whats the point in doing it if theres no score? A scoreboard/leaderboard.
   <li> Wrap this up in a little menu system to play/pause/retry/scores. Oh, and quit when you've realised how bad it is.
 <p>
