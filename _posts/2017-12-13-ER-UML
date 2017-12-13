@@ -1,0 +1,15 @@
+---
+layout: post
+title: ER UML
+date: 2017-11-16
+description: ER UML
+category: Low Level Programming
+tags: Endless Runner
+---
+<h1>Endless Stairs require Endless Effort</h1>
+<body>
+Lets have a look at a basic UML for this endless runner thing.
+  <p>
+  Heres one I made earlier.
+  <p>
+  <img class="col md 4" src="{{ site.baseurl }}/img/ERUML.jpg">
