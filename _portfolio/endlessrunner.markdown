@@ -1,3 +1,4 @@
+---
 layout: project
 title: Endless Runner Game
 description: A running game, well not quite.
