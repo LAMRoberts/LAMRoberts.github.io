@@ -2,7 +2,7 @@
 layout: project
 title: Birdman The Game
 description: angry birds but with a bridman twist
-img: ../img/
+img: ../img/birdman.jpg
 ---
 
 <center><b>Birdman The Game</b> is a physics based angry birds style 2D game with that distinctive Birdman twist..</center><br/>
