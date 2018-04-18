@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Birdman The Game
-description: angry birds but with a bridman twisy
+description: angry birds but with a bridman twist
 img: ../img/
 ---
 
