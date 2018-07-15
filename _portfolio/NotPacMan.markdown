@@ -13,9 +13,9 @@ img: ../img/notpacman.jpg
 </div> -->
 
 <div class="owl-carousel owl-theme">
-<a href="{{ site.baseurl }}/img/birdman_1.png" target="_blank"><img src="{{ site.baseurl }}/img/Screenshot (30).jpg" /></a>
-<a href="{{ site.baseurl }}/img/birdman_2.png" target="_blank"><img src="{{ site.baseurl }}/img/Screenshot (34).jpg" /></a>
-<a href="{{ site.baseurl }}/img/birdman_3.png" target="_blank"><img src="{{ site.baseurl }}/img/Screenshot (35).jpg" /></a>
+<a href="{{ site.baseurl }}/img/birdman_1.png" target="_blank"><img src="{{ site.baseurl }}/img/Screenshot (30).png" /></a>
+<a href="{{ site.baseurl }}/img/birdman_2.png" target="_blank"><img src="{{ site.baseurl }}/img/Screenshot (34).png" /></a>
+<a href="{{ site.baseurl }}/img/birdman_3.png" target="_blank"><img src="{{ site.baseurl }}/img/Screenshot (35).png" /></a>
 </div>
 
 <div class="col three caption">
